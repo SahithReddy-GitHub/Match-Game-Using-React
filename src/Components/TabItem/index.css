@@ -1,0 +1,17 @@
+li {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.tab-btn {
+  background-color: transparent;
+  border: none;
+  font-size: 18px;
+  font-weight: 600;
+  color: #ffffff;
+  padding: 5px;
+  cursor: pointer;
+}
+.extra {
+  color: #fec653;
+  border-bottom: 2px solid #fec653;
+}
